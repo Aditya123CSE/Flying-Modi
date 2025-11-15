@@ -6,7 +6,7 @@ This is a complete, working mobile-portrait game project built in **Unity (2D)**
 
 The game is deployed using **GitHub Pages**.
 
-👉 **[CLICK HERE TO PLAY FLYING MODI]** 👈
+👉 [CLICK HERE TO PLAY FLYING MODI](https://ADITYA123CSE.github.io/Flying-Modi/) 👈
 
 **(Note: This link will become active once the WebGL build files are pushed to the `docs` folder and GitHub Pages is enabled.)**
 
