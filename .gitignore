@@ -1,0 +1,30 @@
+# == Unity Generated Files ==
+# The Library folder contains generated data and is usually large.
+/Library/
+# Temporary files generated during compilation and editing.
+/Temp/
+# Build artifacts, logs, and cache folders.
+/Obj/
+/Build/
+/Logs/
+/MemoryCaptures/
+/PlayerData/
+
+# == IDE/Editor Files (Visual Studio, VS Code, etc.) ==
+# Visual Studio solution user options file
+*.suo
+# VS Code editor settings
+.vscode/
+
+# Visual Studio / Rider C# project user files
+*.user
+*.userprefs
+*.csproj.user
+
+# Mac OS X folder data
+.DS_Store
+
+# == WebGL Build Deployment ==
+# Your WebGL build files (rename this if your deployment folder is 'docs')
+# You must rename this line if you use a different folder name for your final upload
+/WebGL_Build/

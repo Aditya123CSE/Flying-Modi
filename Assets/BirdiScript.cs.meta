@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c91e617ad9150f7439e35adea726a45f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myRigidbody: {instanceID: 0}
+  - logic: {instanceID: 0}
+  - flapSound: {fileID: 8300000, guid: 686c57fb6ffc70d468b4ffd50158c882, type: 3}
+  - hitSound: {fileID: 8300000, guid: 158fc11970cabd0459bdb47dc54c6bd9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
